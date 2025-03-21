@@ -1,0 +1,6 @@
+product_id,stock_level,reorder_threshold
+1,92,15
+2,43,5
+3,90,8
+4,34,5
+5,44,16
